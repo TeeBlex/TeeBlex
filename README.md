@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Front-End Web App</b>
-  - [First project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Danis Eatery](https://teeblex.github.io/danisEatery/)
   - [Second project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Third project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Fourth project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
