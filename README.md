@@ -1,4 +1,4 @@
-<h1>Hi, I'm TeeBlex! <br/><a href="https://github.com/teeblex">Front-End Web Programmer & Graphic Artist</a>
+<h1>Hi, I'm TeeBlex! <br/><a href="https://github.com/teeblex">Front-End Web Programmer & Graphic Designer</a>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
