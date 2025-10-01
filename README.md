@@ -12,7 +12,7 @@
 <h2>👨‍💻 Graphic Projects:</h2>
 
 - <b>Corporate Designs</b>
-  - [First project to showcase](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Flyer](https://imgur.com/a/9ctbBRG)
   - [Second project to showcase](https://github.com/joshmadakor1/Sentinel-Lab).
   - [Third project to showcase](https://github.com/joshmadakor1/Jwipe.PowerShell).
   - [Fourth project to showcase](https://github.com/joshmadakor1/AD_PS)
