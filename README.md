@@ -14,8 +14,8 @@
 - <b>Corporate Designs</b>
   - [Flyer](https://ik.imagekit.io/sqjvoxpcs/Zuri%20Flyer.jpg?updatedAt=1759341798867)
   - [Letterhead](https://ik.imagekit.io/sqjvoxpcs/Amazing%20Meal%20Kitchen%20Letterhead.jpg?updatedAt=1759342088321)
-  - [Third project to showcase](https://github.com/joshmadakor1/Jwipe.PowerShell).
-  - [Fourth project to showcase](https://github.com/joshmadakor1/AD_PS)
+  - [Logo](https://ik.imagekit.io/sqjvoxpcs/Logo.jpg?updatedAt=1759342223766).
+  - [Carrier Bag Mockup](https://ik.imagekit.io/sqjvoxpcs/sample%202.jpg?updatedAt=1759342548503)
   - [Fifth project to showcase](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>📺 Popular Facebook Videos:</h2>
