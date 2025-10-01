@@ -12,7 +12,7 @@
 <h2>👨‍💻 Graphic Projects:</h2>
 
 - <b>Corporate Designs</b>
-  - [Flyer](https://imgur.com/a/9ctbBRG)
+  - [Flyer](https://ik.imagekit.io/sqjvoxpcs/Zuri%20Flyer.jpg?updatedAt=1759341798867)
   - [Second project to showcase](https://github.com/joshmadakor1/Sentinel-Lab).
   - [Third project to showcase](https://github.com/joshmadakor1/Jwipe.PowerShell).
   - [Fourth project to showcase](https://github.com/joshmadakor1/AD_PS)
