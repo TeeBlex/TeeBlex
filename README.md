@@ -5,7 +5,7 @@
 - <b>Front-End Web App</b>
   - [Danis Eatery](https://teeblex.github.io/danisEatery/)
   - [Freelancer](https://teeblex.github.io/freelancer/)
-  - [Third project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Blognista](https://teeblex.github.io/Blognista/)
   - [Fourth project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Fifth project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
 
