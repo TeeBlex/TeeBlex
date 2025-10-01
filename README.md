@@ -13,7 +13,7 @@
 
 - <b>Corporate Designs</b>
   - [Flyer](https://ik.imagekit.io/sqjvoxpcs/Zuri%20Flyer.jpg?updatedAt=1759341798867)
-  - [Second project to showcase](https://github.com/joshmadakor1/Sentinel-Lab).
+  - [Letterhead](https://ik.imagekit.io/sqjvoxpcs/Amazing%20Meal%20Kitchen%20Letterhead.jpg?updatedAt=1759342088321)
   - [Third project to showcase](https://github.com/joshmadakor1/Jwipe.PowerShell).
   - [Fourth project to showcase](https://github.com/joshmadakor1/AD_PS)
   - [Fifth project to showcase](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
