@@ -6,7 +6,7 @@
   - [Danis Eatery](https://teeblex.github.io/danisEatery/)
   - [Freelancer](https://teeblex.github.io/freelancer/)
   - [Calculator App](https://teeblex.github.io/calculatorApp/)
-  - [Fourth project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Counter App](https://teeblex.github.io/counterApp/)
   - [Fifth project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Graphic Projects:</h2>
