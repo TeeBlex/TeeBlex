@@ -7,7 +7,6 @@
   - [Freelancer](https://teeblex.github.io/freelancer/)
   - [Calculator App](https://teeblex.github.io/calculatorApp/)
   - [Counter App](https://teeblex.github.io/counterApp/)
-  - [Fifth project to showcase](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Graphic Projects:</h2>
 
@@ -16,7 +15,7 @@
   - [Letterhead](https://ik.imagekit.io/sqjvoxpcs/Amazing%20Meal%20Kitchen%20Letterhead.jpg?updatedAt=1759342088321)
   - [Logo](https://ik.imagekit.io/sqjvoxpcs/Logo.jpg?updatedAt=1759342223766).
   - [Carrier Bag Mockup](https://ik.imagekit.io/sqjvoxpcs/sample%202.jpg?updatedAt=1759342548503)
-  - [Fifth project to showcase](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Catalog](https://ik.imagekit.io/sqjvoxpcs/1.jpg?updatedAt=1759342852074)
 
 <h2>📺 Popular Facebook Videos:</h2>
 
