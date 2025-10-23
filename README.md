@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Front-End Web App</b>
-  - [Danis Eatery](https://github.com/TeeBlex/blognista)
+  - [Blognista](https://github.com/TeeBlex/blognista)
   - [Danis Eatery](https://teeblex.github.io/danisEatery/)
   - [Freelancer](https://teeblex.github.io/freelancer/)
   - [Calculator App](https://teeblex.github.io/calculatorApp/)
