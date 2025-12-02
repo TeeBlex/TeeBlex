@@ -32,9 +32,11 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/teeblex
 [facebook]: https://web.facebook.com/profile.php?id=61552086777795
 [instagram]: https://www.instagram.com/teeblex/
 [linkedin]: https://linkedin.com/in/teeblex
+
+
 
 
